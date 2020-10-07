@@ -29,4 +29,4 @@ while True:
         f"file://{f'/media/jakegwj/Files/backchanger/Wallpapers/{pic}.png'}", shell=True)
 
     print(f'[{date} {time}] Background set. (ID: {pic})')
-    sleep(5) # (2160)
+    sleep(1800)
